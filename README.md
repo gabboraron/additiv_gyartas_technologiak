@@ -1,0 +1,2 @@
+# additiv_gyartas_technologiak
+gyartas
