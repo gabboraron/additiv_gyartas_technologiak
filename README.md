@@ -37,3 +37,39 @@ olvasztott anyagot mindig eggyel jobban megmelegítjük mint amilyen közegben h
 
 ![FDM nyomtató](https://www.researchgate.net/profile/Wenyao-Xu/publication/328324778/figure/fig2/AS:682531510829056@1539739601237/The-mechatronic-structure-of-an-FDM-3D-printer-with-inevitable-variations-arising-from.ppm)
 
+# EA3
+tintasugaras nyomtató elvű felépítés
+komoly alapanyagtechnológia.: folyékony, szobahőmérsékleten mégis szilárd. UV fény hatására szilárdul.
+
+## Alapanyag sugaras felrakás
+Már a '90-es években 60 mikrométeres pontossággal képesek nyomtatni. Jelenleg már színesen is lehet nyomtatni vele. Anyagtól függően fél-egy éven belül el kell használni.  
+
+## kötőanyag felrakás
+Ez az SLS és az alapanyag keveréke. Egy porágyban a lézer egy kötőanyagot tesz be. Itt is van lehetőség 16 millió szín elérésére akár. 
+
+Maga az alap termék nem erős. Kissé gipszes jellegű. Por részecskéket ragasztóval ragszt össze. A végtermék törékeny. 
+
+A fém port ki lehet színterezni: hő hatására a felesleges részeket ki lehet olvasztani. A térfogatából ekkor veszít, de tovább színterezve összeragaszthatóak a részecskék. Egy elérhetőbb árú fémnyomtatás. 
+
+Nem kell annyira finom por mint az SLS technológiánál. Olcsón könnyen lehet nyomtatni. Általános tárgyakhoz anynira nem megfelelő.
+
+## Laminált gyártás
+Előre legyártott papír/fa/fém/kerámia lemezeket helyezünk egymásra
+- sok hulladékkal energiahatékony eljárás. Egy teljes réteghez itt nem kell a teljes felületet bejárni, elég csak az élek mentén. Akár hőbevitellel csak összeolvaszthatóak is a rétegek. Energiagazdaságos.
+
+Ez egy hegesztés szerű eljárás, így nem árt ha heggesztés közben nem kerül be oxigén, tehát a gépek innergázos környezetben működnek vagy vákumban.
+
+## Közvetlen energiabeviteles nyomtatás
+Egy robotkarra tesszük a fejet és egy lézer sugárba szórjuk a port ami megolvad az adott ponton.
+hasonlít az öntött vas alakatrészekhez. Nagyon porózus kell elgyen a végeredmény. 
+
+Rozsdamentes, martenzites aacélokat/titánt/wolfram/tantal/réz/bronz lehet nyomtatni vele. *Hajócsavarokat* is gyártanak belőle. Nagyon gazdaságos.
+
+# 3D nyomtató választás
+- fokozatokban érdemes gondolkodni
+- követelmények a termékkel szemben
+- minősített anyagok a nyomtatóhoz és a termékhez is egyszerre
+- 
+
+
+
