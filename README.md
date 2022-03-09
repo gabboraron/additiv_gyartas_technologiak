@@ -69,7 +69,14 @@ Rozsdamentes, martenzites aacélokat/titánt/wolfram/tantal/réz/bronz lehet nyo
 - fokozatokban érdemes gondolkodni
 - követelmények a termékkel szemben
 - minősített anyagok a nyomtatóhoz és a termékhez is egyszerre
-- 
+
+### fájlformátumok
+STL helyett [3MF](https://blog.grabcad.com/blog/2020/04/21/3mf-vs-stl-file-types/)
+
+### STL
+- a háromszögeknek van iránya is
+
+![STL fájl működése](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/The_differences_between_CAD_and_STL_Models.svg/1024px-The_differences_between_CAD_and_STL_Models.svg.png)
 
 
 
