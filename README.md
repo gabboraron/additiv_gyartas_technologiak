@@ -78,5 +78,13 @@ STL helyett [3MF](https://blog.grabcad.com/blog/2020/04/21/3mf-vs-stl-file-types
 
 ![STL fájl működése](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/The_differences_between_CAD_and_STL_Models.svg/1024px-The_differences_between_CAD_and_STL_Models.svg.png)
 
+Smart materials:
+- shape-memory alloy (SMA)
+- shape-memory polymer (SPM)
+- piezolectric
+- [solid liquid](https://www.youtube.com/watch?v=jcwYFBeetH0)
+
+**Topológia optimalizáció:** kiindul egy termékből amit aztán 
+
 
 
