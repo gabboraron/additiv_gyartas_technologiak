@@ -86,5 +86,18 @@ Smart materials:
 
 **Topológia optimalizáció:** kiindul egy termékből amit aztán 
 
+# 3D scan
+történhet: 
+- pontokkal
+- ponthálóval
+- lézer vetített hálóval
 
+figyeli az eltéréseket a prekonfigurált hálóban és azzal összehasonlítva kapja meg a képet
+
+1mm -  től felfelé a mérési felbontás
+
+felhasználási lehetőségek:
+- scanelhetünk meglévő alalktrészeket/tárgyakat
+- ellenőrizhetjük  a legyártott termékek minőségét
+- geometriai mérésekre
 
